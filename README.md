@@ -27,3 +27,5 @@
 
 ## 🏁 Outcome
 - Mastery in interpreting SHA256 hashes through critical thinking and analysis.
+
+8. The three digit pin is 546
